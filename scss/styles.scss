@@ -1,0 +1,135 @@
+@import "foundation";
+
+.bg-bl {
+    background-color: #13161c;
+    background-image: url('http://fastpic.co/images/bg-black.png');
+}
+.bg-black {
+    background-color: #13161c;
+    background-image: url('http://fastpic.co/images/bg-black40c31.png');
+}
+
+.bg-y {
+    background-color: $yellow;
+}
+
+.bg-w {
+    background-color: #ffffff;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+}
+
+.basic-link {
+    text-decoration: underline;
+    color: #000;
+}
+
+.main-sub-heading {
+    color: #111111;
+    font-size: 19px;
+    font-weight: 700;
+    font-family: Intro, sans-serif;
+}
+
+.main-heading {
+    margin: 0;
+    font-size: 22px;
+    font-weight: 700;
+    font-family: Intro, sans-serif;
+}
+
+.main-body-p {
+    color: #111111;
+    font-family: Intro, sans-serif;
+    font-size: 21px;
+    line-height: 1.4;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.black-head-p {
+    color: #ffffff;
+    font-family: Intro, sans-serif;
+    font-size: 22px;
+    font-weight: 700;
+}
+.black-body-p {
+    color: #ffffff;
+    font-family: Intro, sans-serif;
+    font-size: 22px;
+    line-height: 1.3;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.white-body-p {
+    color: #111111;
+    font-family: Intro, sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.decorative-line {
+    background: $grey;
+    opacity: 0.11;
+    height: 4px;
+}
+
+.p-b-0 {
+    padding-bottom: 0!important;
+}
+
+.p-t-10 {
+    padding-top: 10px!important;
+}
+.custom-p-t {
+    padding-top: 20px !important;
+}
+
+.custom-p-b {
+    padding-bottom: 20px !important;
+}
+
+.action {
+    background-color: #fff;
+    color: #111111;
+    font-family: Intro, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 10px;
+}
+
+.contacts {
+    color: $yellow;
+    font-family: Intro, sans-serif;
+    font-size: 17px;
+    font-weight: 300;
+}
+.prod-lable {
+    padding: 10px;
+    background-color: $yellow;
+    color: #111111;
+    font-family: Intro, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 15px;
+    height: 45px;
+}
+
+.conacts-site {
+    color: $yellow;
+    font-family: Intro, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.price-lable {
+    color: #111111;
+    font-family: Intro;
+    font-size: 32px;
+    font-weight: 900;
+    background-color: #ffffff;
+    padding: 15px;
+}
